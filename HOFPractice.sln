@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOFPractice", "HOFPractice\HOFPractice.csproj", "{E55BE692-D88C-4537-89FA-53A59E035D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HOFPracticeTest", "HOFPracticeTest\HOFPracticeTest.csproj", "{E244A95E-1E57-4CEF-99EF-F5295C1474F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E55BE692-D88C-4537-89FA-53A59E035D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E55BE692-D88C-4537-89FA-53A59E035D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E55BE692-D88C-4537-89FA-53A59E035D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E55BE692-D88C-4537-89FA-53A59E035D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E244A95E-1E57-4CEF-99EF-F5295C1474F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E244A95E-1E57-4CEF-99EF-F5295C1474F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E244A95E-1E57-4CEF-99EF-F5295C1474F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E244A95E-1E57-4CEF-99EF-F5295C1474F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98BE7046-A16B-464C-9E58-B1A4EAC529BC}
+	EndGlobalSection
+EndGlobal
